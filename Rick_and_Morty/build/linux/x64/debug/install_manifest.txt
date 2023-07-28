@@ -1,0 +1,12 @@
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/flutter_application_2
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/max/holbertonschool-flutter_intro/Rick_and_Morty/build/linux/x64/debug/bundle/data/flutter_assets/version.json
